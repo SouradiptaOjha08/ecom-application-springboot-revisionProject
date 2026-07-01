@@ -1,0 +1,2 @@
+### Delete a user
+DELETE http://localhost:9090/api/users/1
